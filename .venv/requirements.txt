@@ -1,0 +1,10 @@
+jupyter
+numpy
+pandas
+matplotlib
+CoolProp
+requests
+bs4
+html5lib
+openpyxl
+kaleido
