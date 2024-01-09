@@ -8,3 +8,6 @@ bs4
 html5lib
 openpyxl
 kaleido
+seaborn
+scipy
+scikit-learn
