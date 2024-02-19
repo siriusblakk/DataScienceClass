@@ -11,3 +11,4 @@ kaleido
 seaborn
 scipy
 scikit-learn
+tqdm
