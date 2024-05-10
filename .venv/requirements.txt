@@ -1,14 +1,15 @@
-jupyter
-numpy
-pandas
-matplotlib
-CoolProp
-requests
-bs4
-html5lib
-openpyxl
-kaleido
-seaborn
-scipy
-scikit-learn
-tqdm
+jupyter == 1.0.0
+numpy == 1.26.4
+pandas == 2.2.2
+matplotlib == 3.8.4
+CoolProp == 6.6.0
+requests == 2.31.0
+bs4 == 0.0.2
+html5lib == 1.1
+openpyxl == 3.1.2
+kaleido == 0.2.1
+seaborn == 0.13.2
+scipy == 1.13.0
+scikit-learn == 1.4.2
+tqdm == 4.66.4
+sqlite3
